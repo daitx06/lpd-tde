@@ -1,0 +1,14 @@
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\bin\Debug\net8.0\adivinha.exe
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\bin\Debug\net8.0\adivinha.deps.json
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\bin\Debug\net8.0\adivinha.runtimeconfig.json
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\bin\Debug\net8.0\adivinha.dll
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\bin\Debug\net8.0\adivinha.pdb
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.AssemblyInfoInputs.cache
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.AssemblyInfo.cs
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.csproj.CoreCompileInputs.cache
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.dll
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\refint\adivinha.dll
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.pdb
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\adivinha.genruntimeconfig.cache
+C:\Users\daitx\OneDrive\Área de Trabalho\Faculdade\3° semestre\projetos - Lab. Programação\Aula4\TDE\adivinha\obj\Debug\net8.0\ref\adivinha.dll
